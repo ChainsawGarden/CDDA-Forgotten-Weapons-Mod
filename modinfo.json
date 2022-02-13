@@ -1,11 +1,12 @@
 [
     {
-        "type": "MOD_INFO",
-        "id": "forgottenweapons",
-        "name": "Forgotten Weapons Mod",
-        "authors": [ "ChainsawGarden" ],
-        "description": "Adds a myriad of weapons lost to history-- whether due to being expensive (at the time), cursed, blursed or outright impractical for field use.",
-        "category": "items",
-        "dependencies": [ "dda" ]
+      "type": "MOD_INFO",
+      "id": "forgotten_weapons",
+      "name": "Forgotten Weapons Mod",
+      "authors": [ "ChainsawGarden" ],
+      "description": "Adds a myriad of weapons lost to history-- whether due to being expensive (at the time), cursed, blursed or outright impractical for field use.",
+      "category": "items",
+      "dependencies": [ "dda" ]
     }
-]
+  ]
+  
